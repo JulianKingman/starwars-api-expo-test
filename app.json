@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "consensys-test",
-    "slug": "consensys-test",
+    "name": "starwars-test",
+    "slug": "starwars-test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
